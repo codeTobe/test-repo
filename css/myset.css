@@ -1,0 +1,7 @@
+body {
+    margin: 0px;
+}
+
+div, input, textarea {
+    box-sizing: border-box;
+}
